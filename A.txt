@@ -1,4 +1,4 @@
 ipak smo se predomislili
 
 
-neki tekst 2
+neki tekst 2|ovo mjenjamo kroz atom
